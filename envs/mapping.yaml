@@ -1,0 +1,9 @@
+channels:
+  - bioconda
+  - conda-forge
+dependencies:
+  - python =3.9
+  - pandas = 1.4.2
+  - star =2.7
+  - snakemake-minimal >=6.12
+  - stringtie = 2.2

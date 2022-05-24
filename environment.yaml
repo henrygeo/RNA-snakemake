@@ -1,0 +1,16 @@
+channels:
+  - bioconda
+  - conda-forge
+dependencies:
+  - subread=2.0.1
+  - star =2.7
+  - snakemake-minimal >=6.12
+  - matplotlib
+  - graphviz
+  - bcftools =1.14
+  - samtools =1.14
+  - bwa =0.7.17
+  - pysam =0.17
+  - pygraphviz
+  - pygments
+  - networkx

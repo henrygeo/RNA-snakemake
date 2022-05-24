@@ -1,0 +1,7 @@
+# Sample IDs as list
+samples: "/scratch/henrygeo/SamplesPlantID.txt"
+
+
+# Path prefixes for results output by this pipeline
+results_prefix: /home/henrygeo/scratch/Results
+temp_dir: /home/henrygeo/scratch/tmp
