@@ -3,5 +3,5 @@ samples: "/scratch/henrygeo/SamplesPlantID.txt"
 
 
 # Path prefixes for results output by this pipeline
-results_prefix: /home/henrygeo/scratch/Results
-temp_dir: /home/henrygeo/scratch/tmp
+results_prefix: /scratch/henrygeo/RNAproject/Results
+temp_dir: /scratch/henrygeo/scratch/tmp

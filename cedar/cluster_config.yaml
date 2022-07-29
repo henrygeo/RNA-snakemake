@@ -1,7 +1,0 @@
-__default__:
-    account: 'def-jstinchc'
-    mail-user: 'georgia.henry@mail.utoronto.ca' # your email (optional!)
-    time: 120 # default time (minutes)
-    nodes: 1
-    ntasks: 1
-    mem: 4GB # default memory

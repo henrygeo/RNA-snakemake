@@ -1,6 +1,6 @@
 {
     "SBATCH_DEFAULTS": "account=def-jstinchc",
     "CLUSTER_NAME": "",
-    "CLUSTER_CONFIG": "/scratch/henrygeo/cedar/cluster_config.yaml",
+    "CLUSTER_CONFIG": "/scratch/henrygeo/RNAproject/cedar/cedar.yaml",
     "ADVANCED_ARGUMENT_CONVERSION": "no"
 }
